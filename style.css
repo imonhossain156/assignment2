@@ -1,0 +1,223 @@
+body{
+    font-family:'PT Serif', serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(22, 76, 80);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #f17d68;
+    color: white;
+  }
+.header{
+    font-size: 40px;
+}
+.header-para{
+    font-size: 20px;
+}
+.first-span{
+    color: indianred;
+}
+.top-div{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.section1{
+    background-color: powderblue;
+}
+.flexible{ 
+    display: flex;
+    
+
+}
+.half{
+    width: 40%;
+    padding-left: 30%;
+}
+.half img{
+    width: 90%;
+    padding-left: 1%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 143, 249), rgb(219, 60, 108) );
+    padding: 10px 20px 10px 20px;
+    border: white 1px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.link-button:hover{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(136, 228, 240),rgb(12, 60, 218) );
+    padding: 10px 20px 10px 20px;
+    border: white 1px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    }
+
+    .half2{
+        width: 50%;
+    padding-right: 10%
+    }
+    
+    .half2 img{
+     width: 20%;
+    }
+    .ph2{
+        padding-left: 50%;
+        
+      
+    }
+    .section2{
+        background-color: rgb(194, 236, 241);
+    }
+    .us{
+        background-image:url(/images/shapes/exp-bg.png);
+        background-position: left top;
+        background-repeat: no-repeat;
+    }
+    .about-us{
+        font-size: 40px;
+    }
+    .about-us-paragraph{
+        font-size: 20px;
+    }
+
+    
+    h3{
+        color: indianred;
+    }
+    .us1{
+        width: 40%;
+    }
+    .recipe-title{
+        text-align: center;
+
+    }
+    
+    #flex{
+        display: flex;
+       
+     }
+    .recipe-div1 {
+        width: 50%;
+        padding: 1%;
+        padding-top: 15px;
+        border-radius: 50px;
+        box-shadow: 0 0 7px rgb(133, 127, 127);
+        margin: 6px;
+        justify-content: center;
+     
+            
+    }
+    .recipe-div2 {
+        width: 50%;
+        padding: 1%;
+        padding-top: 15px;
+        border-radius: 50px;
+        box-shadow: 0 0 7px rgb(133, 127, 127);
+        margin: 6px;
+        justify-content: center;
+     
+            
+    }
+    .recipe-div3 {
+        width: 50%;
+        padding: 1%;
+        padding-top: 15px;
+        border-radius: 50px;
+        box-shadow: 0 0 7px rgb(133, 127, 127);
+        margin: 6px;
+        justify-content: center;
+     
+            
+    }
+    
+    .recipe{
+        background-color: rgb(194, 236, 241);
+    }
+   
+    .second-span{
+        color: salmon;
+    }
+    #last{
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+    #recipe-1{
+        height: 320px;
+        width: 96%;
+        padding: 1%;
+        border-radius: 50px;
+        
+    }
+    #recipe-2{
+        height: 320px;
+        width: 96%;
+        padding: 1%;
+        border-radius: 50px;
+
+    }
+    #recipe-3{
+        height: 320px;
+        width: 96%;
+        border-radius: 50px;
+        padding: 2%;
+    }
+    #footer{
+        background-color: rgb(34, 18, 18);
+        text-align: center;
+        color: oldlace;
+        
+    }
+    .footer-font{
+        font-size: 70px;
+
+    }
+    .bonus-div{
+        display: flex;
+        
+    }
+    .bonus-div1{
+        width: 100%;
+        text-align: center;
+        margin-top: 80px;
+        margin-left: 150px;
+    }
+    .bonus-div2 img{
+        width: 90%;
+    }
+    .bonus-img{
+        float: right;
+    }
+    .bonus-section{
+        background-color: rgb(171, 245, 245);
+    }
+    .bonus-head{
+        font-size: 60px;
+        color: slategrey;
+    }
+    .bonus-paragraph{
+        font-size: 25px;
+        color: rgb(17, 55, 70);
+    }
+
+
